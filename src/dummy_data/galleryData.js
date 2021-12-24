@@ -34,7 +34,7 @@ const galleryData=[
         id:5,
         url:VijayStambh,
         alt:"Vijay Stambh",
-        info:"The Vijaya Stambha is an imposing victory monument located within Chittor Fort in Chittorgarh, Rajasthan, India. The tower was constructed by the Hindu king Rana Kumbha of Mewar in 1448 to commemorate his victory. The tower is dedicated to Hindu God Shri Vishnu. The names of the architect, Sutradhar Jaita and his three sons who assisted him, Napa, Puja, and Poma, are carved on the fifth floor of the tower"
+        info:"The Vijay Stambha is an imposing victory monument located within Chittor Fort in Chittorgarh, Rajasthan, India. The tower was constructed by the Hindu king Rana Kumbha of Mewar in 1448 to commemorate his victory. The tower is dedicated to Hindu God Shri Vishnu. The names of the architect, Sutradhar Jaita and his three sons who assisted him, Napa, Puja, and Poma, are carved on the fifth floor of the tower"
     },
     {
         id:6,
