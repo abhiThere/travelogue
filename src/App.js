@@ -56,7 +56,7 @@ const App = () => {
           <Route path="/auth/register" exact>
               <Register/>
           </Route>
-          <Redirect to="/" />
+          <Redirect to='/'/>
         </Switch>
       </main>
     </Router>
