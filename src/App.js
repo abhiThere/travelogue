@@ -39,24 +39,24 @@ const App = () => {
       <MainNavigation />
       <main>
         <Switch>
-          <Route path={process.env.PUBLIC_URL +"/" }exact>
+          <Route path="/" exact>
             <UserHeading/>
             <Users />
           </Route>
-          <Route path={process.env.PUBLIC_URL +"/places/gallery"} exact>
+          <Route path="/places/gallery" exact>
             {galleryData.map(cards)}
           </Route>
-          <Route path={process.env.PUBLIC_URL +"/places/wishlist"} exact>
+          <Route path="/places/wishlist" exact>
             <WishListForm saveData={saveData} />
             <WishListItem places={places} updatePlaces={updatePlaces} />
           </Route>
-          <Route path={process.env.PUBLIC_URL +"/places/new" }exact>
+          <Route path="/places/new" exact>
             <NewPlace />
           </Route>
-          <Route path={process.env.PUBLIC_URL +"/auth/register" }exact>
+          <Route path="/auth/register" exact>
               <Register/>
           </Route>
-          <Redirect to={process.env.PUBLIC_URL + '/'}/>
+          <Redirect to='/'/>
         </Switch>
       </main>
     </Router>
