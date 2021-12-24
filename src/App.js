@@ -53,7 +53,7 @@ const App = () => {
           <Route path={"/places/new" }exact>
             <NewPlace />
           </Route>
-          <Route path={process.env.PUBLIC_URL +"/auth/register" }exact>
+          <Route path={"/auth/register" }exact>
               <Register/>
           </Route>
           <Redirect to={'/'}/>
