@@ -5,7 +5,7 @@ import VijayStambh from '../images/VijayStambh.jpg';
 import MasrurTemples from '../images/MasrurTemples.jpg';
 import GoldenTemple from '../images/GoldenTemple.jpg';
 
-let galleryData=[
+const galleryData=[
     {
         id:1,
         url:StatueOfUnity,
