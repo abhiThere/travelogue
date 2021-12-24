@@ -40,7 +40,7 @@ let galleryData=[
         id:6,
         url:MasrurTemples,
         alt:"Masrur Temples",
-        info:"The Masrur Temples, also referred to as Masroor Temples or Rock-cut Temples at Masrur, is an early 8th-century complex of rock-cut Hindu temples in the Kangra Valley of Beas River in Himachal Pradesh, India. The temples face northeast, towards the Dhauladhar range of the Himalayas. They are a version of North Indian Nagara architecture style, dedicated to Shiva, Vishnu, Devi and Saura traditions of Hinduism."
+        info:"The Masrur Temples also referred to as Masroor Temples or Rock-cut Temples at Masrur, is an early 8th-century complex of rock-cut Hindu temples in the Kangra Valley of Beas River in Himachal Pradesh, India. The temples face northeast, towards the Dhauladhar range of the Himalayas. They are a version of North Indian Nagara architecture style, dedicated to Shiva, Vishnu, Devi and Saura traditions of Hinduism."
     },
     
     
