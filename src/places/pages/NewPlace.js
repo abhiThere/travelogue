@@ -52,7 +52,7 @@ const NewPlace = () => {
         </label>
         <br />
         <br />
-        <button className="add-new-place" type="button"><b>Add Place</b></button>
+        <button className="add-new-place" type="submit">Add Place</button>
       </form>
     </div>
   );

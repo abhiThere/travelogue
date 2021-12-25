@@ -12,7 +12,7 @@
   margin-left: 30%;
   height: 85vh;
   padding: 15px 20px 0px 20px;
-  background-color: rgba(40,57,101,.9);;
+  background-color: rgba(40,57,101,.9);
   opacity:0.75;
   padding: 8px 16px 8px 16px;
   border-radius: 20px;
@@ -50,7 +50,7 @@
   margin-top: 50px;
   margin-bottom: 20px;
   color:#ffffff;
-  border-radius: 20px;
+  /* border-radius: 20px; */
   padding: 8px;
   width: 200px;
   margin-left: 30%;
@@ -83,16 +83,59 @@ label[for=photo] b{
  
 }
 
-@media(max-width:600px){
+  
+
+  /* Media Query for Mobile Devices */
+  @media (max-width: 480px) {
+    .new-place__container {
+      margin-top: 0;
+      margin-left:-25%;
+      width:115%;
+      }
+      .NewPlace{
+        height: 100vh;
+      }
+    .add-new-place{
+      margin-left: 30%;
+      width:120px;
+      height: 40px;
+    }
+}
+ 
+/* Media Query for low resolution  Tablets, Ipads */
+@media (min-width: 481px) and (max-width: 767px) {
   .new-place__container{
     margin-top: 0;
     margin-left:-25%;
     width:115%;
-    
+    height: 100vh;
+    }
+    .NewPlace{
+      height: 100vh;
+    }
+  .add-new-place{
+    margin-left: 37%;
+    width:120px;
+    height: 40px;
+  }
 
 }
-.add-new-place{
-  margin-left: 15%;
+ 
+/* Media Query for Tablets Ipads portrait mode */
+@media (min-width: 768px) and (max-width: 1024px){
+  .new-place__container{
+    margin-top: 0;
+    margin-left:-15%;
+    width:115%;
+    }
+    .NewPlace{
+      height: 100vh;
+    }
+  .add-new-place{
+    margin-left: 35%;
+    width:120px;
+    height: 40px;
+  }
 }
   
-}
+
