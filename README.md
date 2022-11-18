@@ -1,4 +1,6 @@
-🏖 Travelogue 
+# Travelogue App
+
+🏖 Travelogue
 
 A travel web app to cherish travel memories.
 
