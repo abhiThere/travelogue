@@ -15,7 +15,7 @@ Moreover, The users can archive travel places posted by other users in their wis
 
 * Share travel locations along with images with other users. 
 * View travel places posted by other users.
-* View image gallery of iconic travel destinations.
+* View an image gallery of the most iconic travel destinations.
 * Save favorite travel places in a wish list.
 
 # Built With
