@@ -6,7 +6,7 @@ A travel web application to cherish travel memories.
 
 Travelogue is a full stack web application where users can share their travel locations along with images with other users.
 In this web app, the users can view travel places posted by other users.
-The users can see an image gallery of the most iconic travel destinations at a glance.
+The users can also view an image gallery of the most iconic travel destinations at a glance.
 Moreover, The users can archive travel places posted by other users in their wish list.
 
 # Features
