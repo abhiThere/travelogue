@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/travelogue/static/css/main.dae78aa3.chunk.css",
+    "main.js": "/travelogue/static/js/main.80fa3772.chunk.js",
+    "main.js.map": "/travelogue/static/js/main.80fa3772.chunk.js.map",
+    "runtime-main.js": "/travelogue/static/js/runtime-main.07b04bef.js",
+    "runtime-main.js.map": "/travelogue/static/js/runtime-main.07b04bef.js.map",
+    "static/js/2.515bff7e.chunk.js": "/travelogue/static/js/2.515bff7e.chunk.js",
+    "static/js/2.515bff7e.chunk.js.map": "/travelogue/static/js/2.515bff7e.chunk.js.map",
+    "index.html": "/travelogue/index.html",
+    "static/css/main.dae78aa3.chunk.css.map": "/travelogue/static/css/main.dae78aa3.chunk.css.map",
+    "static/js/2.515bff7e.chunk.js.LICENSE.txt": "/travelogue/static/js/2.515bff7e.chunk.js.LICENSE.txt",
+    "static/media/GatewayOfIndia.e450bb5a.jpg": "/travelogue/static/media/GatewayOfIndia.e450bb5a.jpg",
+    "static/media/Gaurav.cf83d6be.jpg": "/travelogue/static/media/Gaurav.cf83d6be.jpg",
+    "static/media/IndiaGate.44ea6c9b.jpg": "/travelogue/static/media/IndiaGate.44ea6c9b.jpg",
+    "static/media/Mahesh.a83fb29c.jpg": "/travelogue/static/media/Mahesh.a83fb29c.jpg",
+    "static/media/MasrurTemples.978c02e9.jpg": "/travelogue/static/media/MasrurTemples.978c02e9.jpg",
+    "static/media/Pritam.0948e138.jpg": "/travelogue/static/media/Pritam.0948e138.jpg",
+    "static/media/Sahil.b666eb3d.jpg": "/travelogue/static/media/Sahil.b666eb3d.jpg",
+    "static/media/StatueOfUnity.97810d8e.jpg": "/travelogue/static/media/StatueOfUnity.97810d8e.jpg",
+    "static/media/VijayStambh.73df73ed.jpg": "/travelogue/static/media/VijayStambh.73df73ed.jpg",
+    "static/media/index.css": "/travelogue/static/media/background.4ca3a006.png",
+    "static/media/can-pzs4.04fa4ac9.jpg": "/travelogue/static/media/can-pzs4.04fa4ac9.jpg",
+    "static/media/e=mc2.0e45c431.png": "/travelogue/static/media/e=mc2.0e45c431.png",
+    "static/media/logo.18d1a314.jpg": "/travelogue/static/media/logo.18d1a314.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.07b04bef.js",
+    "static/js/2.515bff7e.chunk.js",
+    "static/css/main.dae78aa3.chunk.css",
+    "static/js/main.80fa3772.chunk.js"
+  ]
+}
