@@ -20,6 +20,17 @@ Moreover, The users can archive travel places posted by other users in their wis
 
 # 📷 Screenshots
 
+![Users Page](https://user-images.githubusercontent.com/74660692/203376335-308cc094-bf9a-4a85-949e-f3b0bacd0f17.png)
+
+
+![Places Gallery](https://user-images.githubusercontent.com/74660692/203376366-7d7e2071-c873-49e2-a084-3b8caf9681f6.png)
+
+
+![Add Place Form](https://user-images.githubusercontent.com/74660692/203376428-d4e00e1b-fdd8-4f8e-a27a-2d4739e31998.png)
+
+
+![Wish List Form](https://user-images.githubusercontent.com/74660692/203376449-4d8c95e6-2364-4aa9-bc1c-88b9ea622f12.png)
+
 # 👨‍💻 Built With
 
 This web app is developed using MERN stack to deliver a fast, responsive and engaging user experience. 
